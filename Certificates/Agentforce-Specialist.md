@@ -13,4 +13,4 @@ November 23, 2025
 [Verify Certificate](https://trailheadacademy.salesforce.com/certificate/exam-agentforce-specialist---AI-201)
 
 ### 🖼 Certificate Image
-(Upload your certificate image to this folder — see Step 3 below)
+![Agentforce Specialist Certificate](image.png)
