@@ -49,8 +49,9 @@ https://www.salesforce.com/trailblazer/itegofyto88pcmzsya
 If you'd like to connect or collaborate:
 
 - **Name:** Kalyani N T  
-- **LinkedIn:** *(add if you want)*  
+- **LinkedIn:** www.linkedin.com/in/kalyanint
 - **GitHub:** https://github.com/KalyaniNT
+
 
 ---
 
